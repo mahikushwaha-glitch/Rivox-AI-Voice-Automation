@@ -1,0 +1,6 @@
+{
+  "name": "Rivox AI Automation",
+  "description": "Interactive landing page, AI voice agent simulator, logical flow designer, and ROI calculator for Rivox AI Automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
